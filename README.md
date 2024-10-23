@@ -1,11 +1,5 @@
-- 👋 Hi, I’m @lipepvl
-- 👀 I’m interested in trabalhar 
-- 🌱 I’m currently learning muita coisas
-- 📫 How to reach me @lipe_.pvk
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-lipepvl/lipepvl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# pvk
+Gosto de ouvir musicas e ficar morgado 
+As vezes gosto de cozinhar 
+![Alt](https://img.irroba.com.br/fit-in/400x400/filters:fill(fff):quality(80)/estampar/catalog/produtos/kits/princesa-sofia-min.20221011133217.jpg)
+![Alt](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTc-xy0x3AJFl_3pWJiTw1w5nPXZAbwluxYw&s)
